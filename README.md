@@ -2,7 +2,7 @@
 
 A clean, modern irssi theme with consistent color coding and improved readability.
 
-<img width="826" height="695" alt="image" src="https://github.com/user-attachments/assets/e717fe83-ded2-4a05-8481-d0bfbaeee558" />
+<img width="816" height="765" alt="SCR-20251105-plob-2" src="https://github.com/user-attachments/assets/179b6041-7072-4ba6-a526-91b84e366f80" />
 
 ## Installation
 
