@@ -1,6 +1,6 @@
 # Æon irssi theme
 
-![Version](https://img.shields.io/badge/version-1.1.0-purple.svg?style=for-the-badge) ![Irssi](https://img.shields.io/badge/Irssi-1.0+-blue?style=for-the-badge&logo=irc&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Version](https://img.shields.io/badge/version-1.1.0-purple.svg?style=for-the-badge) ![Perl](https://img.shields.io/badge/Perl-0073A1?style=for-the-badge&logo=perl&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 A clean, modern irssi theme with consistent color coding and improved readability. Based on [weed](https://github.com/ronilaukkarinen/weed).
 
